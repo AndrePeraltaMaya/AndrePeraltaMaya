@@ -3,7 +3,7 @@
 I am 20 years old and I live in Mexico </p></em>
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
-[![sololearn: AndrePeraltaM](https://img.shields.io/sololearn/follow/AndrePeraltaM?style=social)](https://www.sololearn.com/profile/11456921)
+
 ### About me...  
 
 ### :computer: Technologies that I know:
