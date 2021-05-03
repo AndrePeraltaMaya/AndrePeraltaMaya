@@ -9,6 +9,7 @@
 
 ### About me...  
 ```javascript
+
 ### :computer: Technologies that I know:
 - Python
 - Java
@@ -17,7 +18,9 @@
 - Java Script 
 - PHP
 - SQL
-'''
+
+
+```
 
 ### :closed_book: I'm currently learning:
 - jQuery
