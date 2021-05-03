@@ -23,19 +23,22 @@
 ```
 
 ### :closed_book: I'm currently learning:
+```javascript
 - jQuery
 - Git
 - Github
-
+```
 ### :coffee: Current projects:
+```javascript
 -
-
+```
 
 ### :tada: Other interests:
+```javascript
 - Hardware
 - Video and photo editing
 - Chess
-
+```
 ### :floppy_disk: Some stats :
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
