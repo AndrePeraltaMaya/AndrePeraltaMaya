@@ -1,6 +1,6 @@
 <h2> Hi, I'm André Peralta and welcome to my GitHub!</h2>
-<p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a><br> :floppy_disk:
-I am 20 years old and I live in Mexico </p></em>
+<p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>:mortar_board:
+<br> I am 20 years old and I live in Mexico </p></em>
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
@@ -25,7 +25,7 @@ I am 20 years old and I live in Mexico </p></em>
 -
 
 
-### Other interests:
+### :tada: Other interests:
 - Hardware
 - Video and photo editing
 - Chess
