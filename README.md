@@ -15,7 +15,7 @@
 - SQL
 
 
-### ✔️ I'm currently learning:
+### :closed_book: I'm currently learning:
 - jQuery
 - Git
 - Github
