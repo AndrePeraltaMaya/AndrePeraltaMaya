@@ -26,7 +26,7 @@
 
 ### Other interests:
 - Hardware
-- Video edition
+- Video and photo editing
 - Chess
 
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
