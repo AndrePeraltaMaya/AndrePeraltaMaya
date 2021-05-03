@@ -1,4 +1,7 @@
 <h2> Hi, I'm André Peralta and welcome to my GitHub!</h2>
+
+![head.png](https://raw.githubusercontent.com/AndrePeraltaMaya/AndrePeraltaMaya/main/github%20banner.png)
+
 <p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>:mortar_board:
 <br> I am 20 years old and I live in Mexico </p></em>
 
