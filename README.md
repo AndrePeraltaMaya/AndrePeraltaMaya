@@ -4,10 +4,22 @@
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
 ### About me...  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+### Technologies that I know:
+- Python
+- Java
+- HTML
+- CSS
+- Java Script
+- PHP
+- SQL
+
+
+### ✔️ I'm currently learning:
+- jQuery
+
+### Current projects:
+- 
 
 ```javascript
 const thai = {
