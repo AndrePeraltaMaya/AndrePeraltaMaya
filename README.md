@@ -8,7 +8,7 @@
 ### Technologies that I know:
 - Python
 - Java
-- HTML
+- HTML<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 - CSS
 - Java Script
 - PHP
