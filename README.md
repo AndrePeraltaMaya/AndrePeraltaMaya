@@ -1,4 +1,4 @@
-<h2> Hi, I’m André Peralta</h2>
+<h2> Hi, I'm André Peralta and welcome to my GitHub!</h2>
 <p><em>Computer Engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
