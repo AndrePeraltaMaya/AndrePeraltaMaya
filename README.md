@@ -8,9 +8,9 @@
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
 ### About me...  
-```javascript
 
 ### :computer: Technologies that I know:
+```javascript
 - Python
 - Java
 - HTML
