@@ -21,7 +21,13 @@
 - Github
 
 ### :coffee: Current projects:
-- 
+-
+
+
+### Other interests:
+- Hardware
+- Video edition
+- Chess
 
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
