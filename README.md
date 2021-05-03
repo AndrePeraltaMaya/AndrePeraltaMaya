@@ -8,7 +8,7 @@
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
 ### About me...  
-
+''''
 ### :computer: Technologies that I know:
 - Python
 - Java
@@ -17,7 +17,7 @@
 - Java Script 
 - PHP
 - SQL
-
+''''
 
 ### :closed_book: I'm currently learning:
 - jQuery
