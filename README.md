@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AndrePeraltaMaya/AndrePeraltaMaya/main/imageGif.gif" alt="Welcome!" />
 
-<p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>:mortar_board:
+<p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>  :mortar_board:
 <br> I am 20 years old and I live in Mexico </p></em>
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
