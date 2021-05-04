@@ -42,6 +42,10 @@
 ### :floppy_disk: Some stats :
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
+### 📬 Contact:
+
+- peralta.maya.andre@gmail.com
+
 <em><b>I I love learning new things and practicing what I learn, I also love challenges and chess, so if you want to play a game or have a project in mind, don't think about it and contact me. :blush: </b></em>
 
 
