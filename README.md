@@ -9,8 +9,6 @@
 
 ### About me...  
 
-<p style = "background : black">
-<p>
 
 ### :computer: Technologies that I know:
 ```javascript
