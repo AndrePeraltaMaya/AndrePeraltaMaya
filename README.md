@@ -42,7 +42,7 @@
 ### :floppy_disk: Some stats :
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
-[![AndrePeraltaMaya stats](https://github-readme-stats.vercel.app/api/AndrePeraltaMaya?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
+[![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api/AndrePeraltaMaya?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
 ### 📬 Contact:
 
