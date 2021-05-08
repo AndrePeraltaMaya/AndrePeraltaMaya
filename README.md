@@ -1,4 +1,4 @@
-<h2> Hi, I'm André Peralta and welcome to my GitHub!</h2>
+<h2> Hi everyone, I'm André Peralta and welcome to my GitHub!</h2>
 
 <img src="https://raw.githubusercontent.com/AndrePeraltaMaya/AndrePeraltaMaya/main/imageGif.gif" alt="Welcome!" />
 
