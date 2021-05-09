@@ -13,14 +13,14 @@
 ### :computer: Technologies that I know:
 
 - <pre>Python : <strong> 
-                Pandas
-                Matplotlib 
-                Numpy
-                Plotly-Cufflinks
-                Scipy
-                Seaborn
-                Sympy
-                Tkinder</strong></pre>
+            Pandas
+            Matplotlib 
+            Numpy
+            Plotly-Cufflinks
+            Scipy
+            Seaborn
+            Sympy
+            Tkinder</strong></pre>
 - Java
 - HTML
 - CSS
