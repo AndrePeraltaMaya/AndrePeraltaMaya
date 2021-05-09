@@ -12,15 +12,20 @@
 
 ### :computer: Technologies that I know:
 
-- <pre>Python : <strong> 
-            Pandas
-            Matplotlib 
-            Numpy
-            Plotly-Cufflinks
-            Scipy
-            Seaborn
-            Sympy
-            Tkinder</strong></pre>
+- <pre>Python :
+<ul>
+    <li>Pandas</li>
+    <li>Matplotlib</li> 
+    <li>Numpy</li>     
+    <li>Plotly-Cufflinks</li>    
+    <li>Scipy</li>    
+    <li>Seaborn</li>    
+    <li>Sympy</li>
+    <li>Tkinder</li>
+  </ul>
+            
+            
+            
 - Java
 - HTML
 - CSS
