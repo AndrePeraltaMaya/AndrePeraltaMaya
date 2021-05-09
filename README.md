@@ -32,6 +32,7 @@
     <li>Java Script</li>
     <li>PHP</li>
     <li>SQL</li>
+    <li>Kotlin</li>
     
 </ul>           
             
