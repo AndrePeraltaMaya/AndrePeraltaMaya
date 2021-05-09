@@ -12,18 +12,21 @@
 
 ### :computer: Technologies that I know:
 
-- <pre>Python :
+
 <ul>
-    <li>Pandas</li>
-    <li>Matplotlib</li> 
-    <li>Numpy</li>     
-    <li>Plotly-Cufflinks</li>    
-    <li>Scipy</li>    
-    <li>Seaborn</li>    
-    <li>Sympy</li>
-    <li>Tkinder</li>
-  </ul>
-            
+    <li>Python :
+        <ul>
+            <li>Pandas</li>
+            <li>Matplotlib</li> 
+            <li>Numpy</li>     
+            <li>Plotly-Cufflinks</li>    
+            <li>Scipy</li>    
+            <li>Seaborn</li>    
+            <li>Sympy</li>
+            <li>Tkinder</li>
+        </ul>
+    </li>
+</ul>           
             
             
 - Java
