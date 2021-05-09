@@ -12,7 +12,7 @@
 
 ### :computer: Technologies that I know:
 
-- Python : <pre><strong> Pandas
+<pre>Python : <strong> Pandas
                     Matplotlib 
                     Numpy
                     Plotly-Cufflinks
