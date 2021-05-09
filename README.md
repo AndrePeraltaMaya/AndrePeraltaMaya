@@ -12,7 +12,9 @@
 
 ### :computer: Technologies that I know:
 ```javascript
-- Python
+- Python : - Pandas
+
+
 - Java
 - HTML
 - CSS
