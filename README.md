@@ -26,16 +26,15 @@
             <li>Tkinder</li>
         </ul>
     </li>
+    <li>Java</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Java Script</li>
+    <li>PHP</li>
+    <li>SQL</li>
+    
 </ul>           
             
-            
-- Java
-- HTML
-- CSS
-- Java Script 
-- PHP
-- SQL
-
 
 
 
