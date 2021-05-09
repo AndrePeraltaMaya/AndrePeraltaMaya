@@ -11,7 +11,7 @@
 
 
 ### :computer: Technologies that I know:
-```javascript
+
 - Python : - Pandas
 
 
@@ -23,7 +23,7 @@
 - SQL
 
 
-```
+
 
 ### :closed_book: I'm currently learning:
 ```javascript
