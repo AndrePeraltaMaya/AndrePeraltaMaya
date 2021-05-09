@@ -19,7 +19,8 @@
             <li>Pandas</li>
             <li>Matplotlib</li> 
             <li>Numpy</li>     
-            <li>Plotly-Cufflinks</li>    
+            <li>Plotly</li>    
+            <li>Cufflinks</li>    
             <li>Scipy</li>    
             <li>Seaborn</li>    
             <li>Sympy</li>
