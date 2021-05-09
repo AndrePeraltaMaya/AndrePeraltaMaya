@@ -12,7 +12,7 @@
 
 ### :computer: Technologies that I know:
 
-- Python : - Pandas
+- Python : <strong> Pandas</strong> 
 
 
 - Java
