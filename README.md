@@ -42,7 +42,6 @@
 
 ### :closed_book: I'm currently learning:
 <ul>
-
     <li>jQuery</li>
     <li>Git</li>
     <li>Github</li>
@@ -57,7 +56,6 @@
 ### :tada: Other interests:
 
 <ul>
-
     <li>Hardware</li>
     <li>Video and photo editing</li>
     <li>Chess</li>
