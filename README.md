@@ -59,8 +59,9 @@
     <li>Hardware</li>
     <li>Video and photo editing</li>
     <li>Chess</li>
+</ul>
 
-</ul> 
+
 ### :floppy_disk: Some stats :
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
