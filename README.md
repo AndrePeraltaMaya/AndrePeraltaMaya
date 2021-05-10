@@ -41,22 +41,28 @@
 
 
 ### :closed_book: I'm currently learning:
-```javascript
-- jQuery
-- Git
-- Github
-```
+<ul>
+
+    <li>jQuery</li>
+    <li>Git</li>
+    <li>Github</li>
+
+</ul> 
+
 ### :coffee: Current projects:
 ```javascript
 -
 ```
 
 ### :tada: Other interests:
-```javascript
-- Hardware
-- Video and photo editing
-- Chess
-```
+
+<ul>
+
+    <li>Hardware</li>
+    <li>Video and photo editing</li>
+    <li>Chess</li>
+
+</ul> 
 ### :floppy_disk: Some stats :
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
