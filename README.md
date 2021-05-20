@@ -34,6 +34,7 @@
     <li>PHP</li>
     <li>SQL</li>
     <li>Kotlin</li>
+    <li>Ruby</li>
     
 </ul>           
             
