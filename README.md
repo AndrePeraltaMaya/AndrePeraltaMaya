@@ -27,14 +27,14 @@
             <li>Tkinder</li>
         </ul>
     </li>
-    <li>Java</li>
+    <li>SQL</li>
+    <li>Kotlin</li>
+    <li>Ruby</li>    
     <li>HTML</li>
     <li>CSS</li>
     <li>Java Script</li>
+    <li>Java</li>
     <li>PHP</li>
-    <li>SQL</li>
-    <li>Kotlin</li>
-    <li>Ruby</li>
     
 </ul>           
             
