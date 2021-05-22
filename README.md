@@ -35,6 +35,7 @@
     <li>Java Script</li>
     <li>Java</li>
     <li>PHP</li>
+    <li>C++</li>
     
 </ul>           
             
