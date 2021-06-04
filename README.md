@@ -36,6 +36,7 @@
     <li>Java</li>
     <li>PHP</li>
     <li>C++</li>
+    <li>C</li>
     <li>Git and Github</li>
 </ul>           
             
@@ -44,7 +45,7 @@
 
 ### :closed_book: I'm currently learning:
 <ul>
-    <li>C</li>
+    <li>COBOL</li>
 </ul> 
 
 ### :coffee: Current projects:
