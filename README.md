@@ -55,9 +55,9 @@
 
 
 ### :coffee: Current projects:
-```javascript
--
-```
+<ul>
+    <li>File manager program in python</li>
+</ul>
 
 ### :tada: Other interests:
 
