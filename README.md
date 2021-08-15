@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/AndrePeraltaMaya/AndrePeraltaMaya/main/imageGif.gif" alt="Welcome!" />
 
 <p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>  :mortar_board:
-<br> I am 20 years old and I live in Mexico </p></em>
+<br> I am 21 years old and I live in Mexico </p></em>
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
@@ -32,21 +32,27 @@
     <li>Ruby</li>    
     <li>HTML</li>
     <li>CSS</li>
-    <li>Java Script</li>
+    <li>Java Script:</li>
+        <ul>
+               <li>jQuery</li>
+        </ul>
     <li>Java</li>
     <li>PHP</li>
     <li>C++</li>
     <li>C</li>
     <li>Git and Github</li>
 </ul>           
-            
-
+      
+      
+      
+### :star: :star: :star: :briefcase: I am currently working as a full stack developer at Spotynet. :briefcase: :star: :star: :star: 
 
 
 ### :closed_book: I'm currently learning:
 <ul>
-    <li>COBOL</li>
+    <li>Bootstrap</li>
 </ul> 
+
 
 ### :coffee: Current projects:
 ```javascript
