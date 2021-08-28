@@ -41,6 +41,7 @@
     <li>C++</li>
     <li>C</li>
     <li>Git and Github</li>
+    <li>Notion</li>
 </ul>           
       
       
