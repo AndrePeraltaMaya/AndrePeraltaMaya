@@ -17,9 +17,7 @@
 
 <ul>
     
-    ```diff
-asdasd
-```
+
     <li >Python :
         <ul>
             <li>Pandas</li>
