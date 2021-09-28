@@ -29,7 +29,6 @@
             <li>Sympy</li>
             <li>Tkinder</li>
         </ul>
-    </li>
     <li>SQL</li>
     <li>Kotlin</li>
     <li>Ruby</li>    
