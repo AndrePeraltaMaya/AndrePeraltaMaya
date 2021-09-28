@@ -7,6 +7,8 @@
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
+### :star: :star: :star: :briefcase: I am currently working as a full stack developer at Spotynet. :briefcase: :star: :star: :star: 
+
 ### About me...  
 
 
@@ -47,14 +49,14 @@
     <li>Notion</li>
 </ul>           
       
-### I also know about design:
+### :art: I also know about design:
 <ul>
     <li>Adobe XD</li>
     <li>Adobe Dreamweaver</li>
     <li>Adobe Premier Pro</li>
 </ul>  
       
-### :star: :star: :star: :briefcase: I am currently working as a full stack developer at Spotynet. :briefcase: :star: :star: :star: 
+
 
 
 ### :closed_book: I'm currently learning:
