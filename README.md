@@ -17,7 +17,7 @@
 
 <ul>
   
-    <li> Python :
+    <li> Python :</li>
         <ul>
             <li>Pandas</li>
             <li>Matplotlib</li> 
