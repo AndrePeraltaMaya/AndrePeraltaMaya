@@ -47,7 +47,12 @@
     <li>Notion</li>
 </ul>           
       
-      
+### I also know about design:
+<ul>
+    <li>Adobe XD</li>
+    <li>Adobe Dreamweaver</li>
+    <li>Adobe Premier Pro</li>
+</ul>  
       
 ### :star: :star: :star: :briefcase: I am currently working as a full stack developer at Spotynet. :briefcase: :star: :star: :star: 
 
