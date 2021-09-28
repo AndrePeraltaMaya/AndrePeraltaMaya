@@ -16,7 +16,11 @@
 
 
 <ul>
-    <li style ="color=red;" >Python :
+    
+    ```diff
+asdasd
+```
+    <li >Python :
         <ul>
             <li>Pandas</li>
             <li>Matplotlib</li> 
