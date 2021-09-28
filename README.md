@@ -31,7 +31,10 @@
     <li>Kotlin</li>
     <li>Ruby</li>    
     <li>HTML</li>
-    <li>CSS</li>
+    <li>CSS:</li>
+        <ul>
+            <li>Bootstrap</li>
+        </ul>
     <li>Java Script:</li>
         <ul>
                <li>jQuery</li>
@@ -51,7 +54,7 @@
 
 ### :closed_book: I'm currently learning:
 <ul>
-    <li>Bootstrap</li>
+    <li></li>
 </ul> 
 
 
