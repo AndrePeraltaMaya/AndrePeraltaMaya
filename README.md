@@ -17,7 +17,7 @@
 
 <ul>
   
-    <li> Python :</li>
+    <li> Python :
         <ul>
             <li>Pandas</li>
             <li>Matplotlib</li> 
@@ -29,6 +29,7 @@
             <li>Sympy</li>
             <li>Tkinder</li>
         </ul>
+  </li>
     <li>SQL</li>
     <li>Kotlin</li>
     <li>Ruby</li>    
