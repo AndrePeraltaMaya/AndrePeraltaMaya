@@ -52,7 +52,6 @@
 ### :art: I also know about design:
 <ul>
     <li>Adobe XD</li>
-    <li>Adobe Dreamweaver</li>
     <li>Adobe Premier Pro</li>
 </ul>  
       
