@@ -40,6 +40,7 @@
     <li>Java Script:</li>
         <ul>
                <li>jQuery</li>
+               <li>JSON</li>
         </ul>
     <li>Java</li>
     <li>PHP</li>
