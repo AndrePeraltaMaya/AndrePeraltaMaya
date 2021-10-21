@@ -7,7 +7,6 @@
 
 [![Twitter: AndrePeraltaM](https://img.shields.io/twitter/follow/AndrePeraltaM?style=social)](https://twitter.com/AndrePeraltaM)
 
-### :star: :star: :star: :briefcase: I am currently working as a full stack developer at Spotynet. :briefcase: :star: :star: :star: 
 
 ### About me...  
 
