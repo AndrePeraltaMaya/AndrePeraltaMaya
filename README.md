@@ -17,6 +17,7 @@
 <ul>
     <li style ="color=red;" >Python :
         <ul>
+            <li>Flask</li>
             <li>Pandas</li>
             <li>Matplotlib</li> 
             <li>Numpy</li>     
@@ -38,6 +39,7 @@
         <ul>
                <li>jQuery</li>
                <li>JSON</li>
+               <li>AJAX</li>
         </ul>
     <li>PHP</li>
     <li>Kotlin</li>
