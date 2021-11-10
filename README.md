@@ -28,9 +28,7 @@
             <li>Tkinder</li>
         </ul>
     </li>
-    <li>SQL</li>
-    <li>Kotlin</li>
-    <li>Ruby</li>    
+    <li>SQL</li>  
     <li>HTML</li>
     <li>CSS:</li>
         <ul>
@@ -41,8 +39,10 @@
                <li>jQuery</li>
                <li>JSON</li>
         </ul>
-    <li>Java</li>
     <li>PHP</li>
+    <li>Kotlin</li>
+    <li>Ruby</li>  
+    <li>Java</li>
     <li>C++</li>
     <li>C</li>
     <li>Git and Github</li>
