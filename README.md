@@ -17,7 +17,7 @@
 <ul>
     <li style ="color=red;" >Python :
         <ul>
-            <li>Flask</li>
+            <li>Flask</li>  <li>asdadfa</li>
             <li>Pandas</li>
             <li>Matplotlib</li> 
             <li>Numpy</li>     
@@ -29,28 +29,19 @@
             <li>Tkinder</li>
         </ul>
     </li>
-    <li>SQL</li>
-    <li>SQLite</li> 
-    <li>HTML</li>
-    <li>CSS:</li>
-        <ul>
-            <li>Bootstrap</li>
-        </ul>
-    <li>Java Script:</li>
-        <ul>
-               <li>jQuery</li>
-               <li>JSON</li>
-               <li>AJAX</li>
-        </ul>
-    <li>PHP</li>
-    <li>C#</li>
-    <li>Ruby</li> 
-    <li>Java</li>
-    <li>C++</li>
-    <li>C</li>
-    <li>Kotlin</li>
-    <li>Git and Github</li>
-    <li>Notion</li>
+    <li>MySQL</li>
+PL/SQL
+HTML
+CSS
+Bootstrap
+PHP
+C++
+C
+Ruby
+Kotlin
+Notion
+Adobe XD
+Adobe Premier Pro
 </ul>           
       
 ### :art: I also know about design:
