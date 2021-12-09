@@ -42,7 +42,33 @@ Kotlin
 Notion
 Adobe XD
 Adobe Premier Pro
-</ul>           
+</ul>     
+
+<table class="default">
+
+  <tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Celda 4</td>
+
+    <td>Celda 5</td>
+
+    <td>Celda 6</td>
+
+  </tr>
+
+</table>
+
+
       
 ### :art: I also know about design:
 <ul>
