@@ -12,28 +12,9 @@
 
 
 ### :computer: Technologies that I know:
+   
 
-
-<ul>
-    <li style ="color=red;" >Python :
-        <ul>
-            <li>Flask</li>  <li>asdadfa</li>
-            <li>Pandas</li>
-            <li>Matplotlib</li> 
-            <li>Numpy</li>     
-            <li>Plotly</li>    
-            <li>Cufflinks</li>    
-            <li>Scipy</li>    
-            <li>Seaborn</li>    
-            <li>Sympy</li>
-            <li>Tkinder</li>
-        </ul>
-    </li>
-
-</ul>     
-
-| Comando | Descripción |
-| --- | --- |
+| Python | C# |
 | MySQL | C# |
 | PL/SQL | SQLite |
 | HTML | Oracle SQL |
