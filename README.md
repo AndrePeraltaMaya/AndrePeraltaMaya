@@ -44,11 +44,9 @@ Adobe XD
 Adobe Premier Pro
 </ul>     
 
-<table class="default">
-
-  <tr>
-
-    <td>Celda 1</td>
+<table>
+    <tr>
+        <td>Celda 1</td>
 
     <td>Celda 2</td>
 
