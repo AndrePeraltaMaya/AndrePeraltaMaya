@@ -29,26 +29,24 @@
             <li>Tkinder</li>
         </ul>
     </li>
-    <li>MySQL</li>
-PL/SQL
-HTML
-CSS
-Bootstrap
-PHP
-C++
-C
-Ruby
-Kotlin
-Notion
-Adobe XD
-Adobe Premier Pro
+
 </ul>     
 
 | Comando | Descripción |
 | --- | --- |
-| git status | Enumera todos los archivos nuevos o modificados |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
-
+| MySQL | C# |
+| PL/SQL | SQLite |
+| HTML | Oracle SQL |
+| CSS | SQL Server |
+| Bootstrap | MongoDB |
+| PHP | Java Script |
+| C++ | jQuery  |
+| C | AJAX |
+| Ruby | JSON |
+| Kotlin | XML |
+| Notion | JAVA |
+| Adobe XD | Postman |
+| Adobe Premier Pro | Git and Github |
 
       
 ### :art: I also know about design:
