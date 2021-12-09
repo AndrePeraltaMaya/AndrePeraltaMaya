@@ -15,7 +15,7 @@
 
 |  |  |
 | --- | --- |
-| Python | C# |
+| Python | |
 | MySQL | C# |
 | PL/SQL | SQLite |
 | HTML | Oracle SQL |
@@ -27,8 +27,8 @@
 | Ruby | JSON |
 | Kotlin | XML |
 | Notion | JAVA |
-| Adobe XD | Postman |
-| Adobe Premier Pro | Git and Github |
+| Git and Github | Postman |
+
 
       
 ### :art: I also know about design:
