@@ -12,7 +12,8 @@
 
 
 ### :computer: Technologies that I know:
-   
+
+|  |  |
 | --- | --- |
 | Python | C# |
 | MySQL | C# |
