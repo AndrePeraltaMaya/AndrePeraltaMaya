@@ -22,15 +22,21 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-|  Programming languages|  |
-| --- | --- |
-| Python | |
-| HTML | C# |
-| CSS | Bootstrap |
-| PHP | Java Script |
-| C++ | jQuery  |
-| Ruby | C |
-| Kotlin | JAVA |
+|  Programming languages|
+| --- |
+| Python |
+| HTML |
+| CSS | 
+| PHP | 
+| C++ | 
+| Ruby |
+| Kotlin |
+| C# |
+| Bootstrap |
+| Java Script |
+| jQuery  |
+| C |
+| JAVA |
 
 
 
