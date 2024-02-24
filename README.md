@@ -22,7 +22,7 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-| <b> Programming languages </b>|
+| <p class="texto-rojo"> Programming languages </p>|
 | --- |
 | Python |
 | JAVA |
