@@ -31,8 +31,8 @@ I am a passionate programmer with a solid background in computer engineering and
 | PHP | Java Script |
 | C++ | jQuery  |
 | C | AJAX |
-| Ruby | JSON |
-| Kotlin | XML |
+| Ruby | Excel |
+| Kotlin | Abinitio |
 | Notion | JAVA |
 | Git and Github | Postman |
 
