@@ -22,9 +22,11 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-| <p class="texto-rojo"> Programming languages </p>|
+| Programming languages |
 | --- |
-| Python |
+| Python <a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a> |
 | JAVA |
 | Java Script |
 | jQuery  |
