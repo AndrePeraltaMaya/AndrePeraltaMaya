@@ -12,6 +12,12 @@
 
 I am a passionate programmer with a solid background in computer engineering and a focused approach on creating innovative and efficient solutions. My experience ranges from the development of web applications, databases, APIS, to BI development with ETLs, and I love facing new technological challenges.
 
+
+### Professional experience
+
+
+
+
 ### :computer: Technologies that I know:
 
 |  |  |
@@ -41,16 +47,14 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-### :closed_book: I'm currently learning:
-<ul>
-    <li></li>
-</ul> 
+### :closed_book: Goals and Aspirations:
 
 
-### :coffee: Current projects:
-<ul>
-    <li>File manager program in python</li>
-</ul>
+I am constantly looking for opportunities to grow as a professional and contribute significantly to the technology field. Some of my short and long term goals include:
+
+Continue learning and mastering new emerging technologies, such as artificial intelligence
+
+
 
 ### :tada: Other interests:
 
@@ -65,5 +69,14 @@ I am a passionate programmer with a solid background in computer engineering and
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
 
 
+
+### :tada: Let's talk!:
+
+If you're interested in collaborating on exciting projects or just want to talk technology, I'd love to meet you! You can contact me through my email peralta.maya.andre@gmail.com or find me on LinkedIn.
+
+
 <em><b>I I love learning new things and practicing what I learn, I also love challenges and chess, so if you want to play a game or have a project in mind, don't think about it and contact me. :blush: </b></em>
+
+
+Thank you for visiting my profile!
 
