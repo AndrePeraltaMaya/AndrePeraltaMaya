@@ -1,4 +1,4 @@
-<h2> Hi everyone, I'm André Peralta and welcome to my GitHub!</h2>
+<h1> Hi everyone, I'm André Peralta and welcome to my GitHub!</h1>
 
 <img src="https://raw.githubusercontent.com/AndrePeraltaMaya/AndrePeraltaMaya/main/imageGif.gif" alt="Welcome!" />
 
@@ -10,6 +10,7 @@
 
 ### About me...  
 
+I am a passionate programmer with a solid background in computer engineering and a focused approach on creating innovative and efficient solutions. My experience ranges from the development of web applications, databases, APIS, to BI development with ETLs, and I love facing new technological challenges.
 
 ### :computer: Technologies that I know:
 
