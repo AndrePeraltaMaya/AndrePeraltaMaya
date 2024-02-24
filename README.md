@@ -22,7 +22,7 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-|  |  |
+|  Programming languages  |
 | --- | --- |
 | Python | |
 | HTML | C# |
@@ -34,14 +34,14 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-|  |  |
+|  Database management system  |
 | --- | --- |
 | MySQL | Oracle SQL |
 | PL/SQL | SQLite |
 | MongoDB | SQL Server |
 
 
-|  |  |
+|  Other technologies |
 | --- | --- |
 | Notion | Abinitio |
 | Excel | AJAX |
