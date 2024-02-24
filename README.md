@@ -12,9 +12,9 @@
 
 I am a passionate programmer with a solid background in computer engineering and a focused approach on creating innovative and efficient solutions. My experience ranges from the development of web applications, databases, APIS, to BI development with ETLs, and I love facing new technological challenges.
 
-
+<!--
 ### Professional experience
-
+-->
 
 
 
@@ -92,10 +92,10 @@ Continue learning and mastering new emerging technologies, such as artificial in
     <li>Chess</li>
 </ul>
 
-
+<!--
 ### :floppy_disk: Some stats :
 [![AndrePeraltaMaya GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrePeraltaMaya)](https://github.com/AndrePeraltaMaya/github-readme-stats)
-
+-->
 
 
 ### :tada: Let's talk!:
