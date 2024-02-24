@@ -20,23 +20,32 @@ I am a passionate programmer with a solid background in computer engineering and
 
 ### :computer: Technologies that I know:
 
+
+
 |  |  |
 | --- | --- |
 | Python | |
-| MySQL | C# |
-| PL/SQL | SQLite |
-| HTML | Oracle SQL |
-| CSS | SQL Server |
-| Bootstrap | MongoDB |
+| HTML | C# |
+| CSS | Bootstrap |
 | PHP | Java Script |
 | C++ | jQuery  |
-| C | AJAX |
-| Ruby | Excel |
-| Kotlin | Abinitio |
-| Notion | JAVA |
+| Ruby | C |
+| Kotlin | JAVA |
+
+
+
+|  |  |
+| --- | --- |
+| MySQL | Oracle SQL |
+| PL/SQL | SQLite |
+| MongoDB | SQL Server |
+
+
+|  |  |
+| --- | --- |
+| Notion | Abinitio |
+| Excel | AJAX |
 | Git and Github | Postman |
-
-
       
 ### :art: I also know about design:
 <ul>
