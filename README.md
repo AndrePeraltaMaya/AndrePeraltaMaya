@@ -16,6 +16,13 @@ I am a passionate programmer with a solid background in computer engineering and
 ## Professional experience
 
 
+<h3> <b>Desarrollador BI </b> Citibanamex Diciembre 2023 - Now </h2>
+<ul>
+  <li>Manzana</li>
+  <li>Plátano</li>
+  <li>Naranja</li>
+</ul>
+
 <h3>Lista de Frutas</h2>
 <ul>
   <li>Manzana</li>
@@ -23,7 +30,12 @@ I am a passionate programmer with a solid background in computer engineering and
   <li>Naranja</li>
 </ul>
 
-
+<h3>Lista de Frutas</h2>
+<ul>
+  <li>Manzana</li>
+  <li>Plátano</li>
+  <li>Naranja</li>
+</ul>
 
 Encargado del departamento de programación
 Jefe del departamento de investigación
