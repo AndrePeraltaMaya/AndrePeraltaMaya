@@ -16,7 +16,7 @@ I am a passionate programmer with a solid background in computer engineering and
 ## Professional experience
 
 
-<h3>Desarrollador BI </b> <i> **[Citibanamex](https://www.banamex.com/)** **[Instagram](https://www.instagram.com/iamdaguilera)**  Diciembre 2023 - Now  </i></h2>
+### Desarrollador BI  **[Citibanamex](https://www.banamex.com/)** **[Instagram](https://www.instagram.com/iamdaguilera)**  Diciembre 2023 - Now 
 
   * Manzana
   * Plátano
