@@ -25,9 +25,14 @@ I am a passionate programmer with a solid background in computer engineering and
 
 ### <b> Desarrollador BI </b>  **[Stefanini LATAM](https://stefanini.com/en)**  Marzo 2022 - Diciembre 2023
 
-  * Manzana
-  * Plátano
-  * Naranja
+  * Uso de ?? para el proyecto de Data migration, Accival Simplification y Data Segregetion para migración de contratos 
+  * Uso de AB Initio ( GDE y Express IT ) como ETL para la creación de grafos y creación de reglas de negocio
+  * Uso de comandos UNIX para migración de codigo a los distintos ambientes hasta llegar a ambientre productivo
+  * Automatización de procesos mediante Autosys
+  * Actualización de los distintos softwares dentro del aplicativo (cyberark, abinitio, autosys, tectia etc.)
+  * Uso de SQL Server para consultas a bases de datos relacionales dentro del banco
+  * Capacitación de nuevos integrantes al equipo (accesos, orientación, asesoriamiento )
+  * Creación y actualización de documentación sobre los issues y procesos dentro del aplicativo
 
 ### <b> Programador Full Stack </b>  **[Spotynet](https://www.spotynet.com/)**  Julio 2021 - Octubre 2021
 
