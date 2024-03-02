@@ -16,19 +16,13 @@ I am a passionate programmer with a solid background in computer engineering and
 ## Professional experience
 
 
-<h2>Lista de Frutas</h2>
+<h3>Lista de Frutas</h2>
 <ul>
   <li>Manzana</li>
   <li>Plátano</li>
   <li>Naranja</li>
 </ul>
 
-<h2>Lista de Verduras</h2>
-<ol>
-  <li>Lechuga</li>
-  <li>Zanahoria</li>
-  <li>Brócoli</li>
-</ol>
 
 
 Encargado del departamento de programación
