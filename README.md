@@ -16,14 +16,14 @@ I am a passionate programmer with a solid background in computer engineering and
 ## 🛠️ Professional experience
 
 
-### <b> Desarrollador BI </b>  **[Citibanamex](https://www.banamex.com/)**  Diciembre 2023 - Now 
+### <b> Desarrollador BI </b> |  **[Citibanamex](https://www.banamex.com/)** |  Diciembre 2023 - Now 
 
   * Manzana
   * Plátano
   * Naranja
 
 
-### <b> Desarrollador BI </b>  **[Stefanini LATAM](https://stefanini.com/en)**  Marzo 2022 - Diciembre 2023
+### <b> Desarrollador BI </b> |  **[Stefanini LATAM](https://stefanini.com/en)** |  Marzo 2022 - Diciembre 2023
 
   * Lideré y fuí parte de proyectos clave para la segregación del banco incluyendo Data Migration, Accival Simplification y Data Segregation para la migración de contratos de Citi a Banamex
   * Utilicé AB Initio (GDE y Express IT) como ETL para la creación de gráficos y reglas de negocio para los proyectos anteriormente mencionados, mejorando la eficiencia y la precisión del procesamiento de datos.
@@ -34,7 +34,7 @@ I am a passionate programmer with a solid background in computer engineering and
   * Lideré la capacitación de nuevos integrantes del equipo, proporcionando orientación, asesoramiento y gestión de accesos, para una integración eficaz.
   * Responsable de la creación y actualización de documentación detallada sobre los problemas y procesos dentro del aplicativo, garantizando una comprensión clara y una gestión eficiente de los activos de información.
 
-### <b> Programador Full Stack </b>  **[Spotynet](https://www.spotynet.com/)**  Julio 2021 - Octubre 2021
+### <b> Programador Full Stack </b> |  **[Spotynet](https://www.spotynet.com/)** |  Julio 2021 - Octubre 2021
 
   * Fuí parte de la implementación de un sistema CRUD para la creación automática de eventos digitales, utilizando HTML, JavaScript, Bootstrap, PHP, SQL, entre otros, para optimizar la eficiencia y la precisión en la gestión de eventos.
   * Diseñé, programé y modifiqué bases de datos relacionales y no relacionales, asegurando un almacenamiento eficiente y seguro de los datos del proyecto.
