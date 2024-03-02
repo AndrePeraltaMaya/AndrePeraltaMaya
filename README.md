@@ -66,7 +66,7 @@ I am a passionate programmer with a solid background in computer engineering and
 <br>
 <br>
 
-### :art: I also know about design:
+## :art: I also know about design:
 <ul>
     <li>Adobe XD</li>
     <li>Adobe Premier Pro</li>
