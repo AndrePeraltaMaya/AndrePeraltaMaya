@@ -103,7 +103,7 @@ Continue learning and mastering new emerging technologies, such as artificial in
 If you're interested in collaborating on exciting projects or just want to talk technology, I'd love to meet you! You can contact me through my email peralta.maya.andre@gmail.com or find me on LinkedIn.
 
 
-<em><b>I I love learning new things and practicing what I learn, I also love challenges and chess, so if you want to play a game or have a project in mind, don't think about it and contact me. :blush: </b></em>
+<em><b>I love learning new things and practicing what I learn, I also love challenges and chess, so if you want to play a game or have a project in mind, don't think about it and contact me. :blush: </b></em>
 
 
 Thank you for visiting my profile!
