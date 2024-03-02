@@ -38,7 +38,7 @@ I am a passionate programmer with a solid background in computer engineering and
   • Encargado del sistema de control de versiones del proyecto.
   • Envío de correos automáticos con Python y JS.
   • Mantenimiento y modificación de la pagina principal.
-  • Asesoramiento y solución de problemas a usuarios.
+  • Asesoramiento y solución de problemas a usuarios
 
 
 
