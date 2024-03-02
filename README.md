@@ -16,21 +16,21 @@ I am a passionate programmer with a solid background in computer engineering and
 ## Professional experience
 
 
-<h3> <b style="color: blue">Desarrollador BI </b> <i> Citibanamex  Diciembre 2023 - Now  </i></h2>
+<h3>>Desarrollador BI </b> <i> Citibanamex  Diciembre 2023 - Now  </i></h2>
 <ul>
   <li>Manzana</li>
   <li>Plátano</li>
   <li>Naranja</li>
 </ul>
 
-<h3>Lista de Frutas</h2>
+<h3>>Desarrollador BI </b> <i> Stefanini LATAM  Marzo 2022 - Diciembre 2023  </i></h2>
 <ul>
   <li>Manzana</li>
   <li>Plátano</li>
   <li>Naranja</li>
 </ul>
 
-<h3>Lista de Frutas</h2>
+<h3>>Programador Full Stack </b> <i> Spotynet Julio 2021 - Octubre 2021  </i></h2>
 <ul>
   <li>Manzana</li>
   <li>Plátano</li>
