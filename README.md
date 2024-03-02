@@ -16,7 +16,7 @@ I am a passionate programmer with a solid background in computer engineering and
 ## Professional experience
 
 
-<h3> <b>Desarrollador BI </b> Citibanamex Diciembre 2023 - Now </h2>
+<h3> <b>Desarrollador BI </b> <i> Citibanamex  Diciembre 2023 - Now  </i></h2>
 <ul>
   <li>Manzana</li>
   <li>Plátano</li>
