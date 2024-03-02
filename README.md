@@ -31,8 +31,6 @@ I am a passionate programmer with a solid background in computer engineering and
 
 ### <b> Programador Full Stack </b>  **[Spotynet](https://www.spotynet.com/)**  Julio 2021 - Octubre 2021
 
-  * Manzana
-  * Plátano
   * Implementar un CRUD para la creación de eventos digitales de manera automática usando HTML, JS, Bootstrap, PHP, SQL etc.
   * Diseño, programación y modificación de bases de datos relacionales y no relacionales.
   * Encargado del sistema de control de versiones del proyecto.
