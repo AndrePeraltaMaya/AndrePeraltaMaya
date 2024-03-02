@@ -33,12 +33,12 @@ I am a passionate programmer with a solid background in computer engineering and
 
   * Manzana
   * Plátano
-  • Implementar un CRUD para la creación de eventos digitales de manera automática usando HTML, JS, Bootstrap, PHP, SQL etc.
-  • Diseño, programación y modificación de bases de datos relacionales y no relacionales.
-  • Encargado del sistema de control de versiones del proyecto.
-  • Envío de correos automáticos con Python y JS.
-  • Mantenimiento y modificación de la pagina principal.
-  • Asesoramiento y solución de problemas a usuarios
+  * Implementar un CRUD para la creación de eventos digitales de manera automática usando HTML, JS, Bootstrap, PHP, SQL etc.
+  * Diseño, programación y modificación de bases de datos relacionales y no relacionales.
+  * Encargado del sistema de control de versiones del proyecto.
+  * Envío de correos automáticos con Python y JS.
+  * Mantenimiento y modificación de la pagina principal.
+  * Asesoramiento y solución de problemas a usuarios
 
 
 
