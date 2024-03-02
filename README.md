@@ -7,9 +7,8 @@
 
 [![Twitter: AndrewOnFire_](https://img.shields.io/twitter/follow/AndrewOnFire_?style=social)](https://twitter.com/AndrewOnFire_)
 
-## Donde me puedes encontrar
 
-### About me...  
+## About me...  
 
 I am a passionate programmer with a solid background in computer engineering and a focused approach on creating innovative and efficient solutions. My experience ranges from the development of web applications, databases, APIS, to BI development with ETLs, and I love facing new technological challenges.
 
@@ -19,7 +18,7 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-### :computer: Technologies that I know:
+## :computer: Technologies that I know:
 
 
 
@@ -76,7 +75,7 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-### :closed_book: Goals and Aspirations:
+## :closed_book: Goals and Aspirations:
 
 
 I am constantly looking for opportunities to grow as a professional and contribute significantly to the technology field. Some of my short and long term goals include:
@@ -85,7 +84,7 @@ Continue learning and mastering new emerging technologies, such as artificial in
 
 
 
-### :tada: Other interests:
+## :tada: Other interests:
 
 <ul>
     <li>Hardware</li>
@@ -99,7 +98,7 @@ Continue learning and mastering new emerging technologies, such as artificial in
 -->
 
 
-### :tada: Let's talk!:
+## :tada: Let's talk!:
 
 If you're interested in collaborating on exciting projects or just want to talk technology, I'd love to meet you! You can contact me through my email peralta.maya.andre@gmail.com or find me on LinkedIn.
 
