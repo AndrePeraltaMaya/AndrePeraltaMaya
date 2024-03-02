@@ -49,46 +49,46 @@ I am a passionate programmer with a solid background in computer engineering and
 
 
 
-| Programming languages |
-| --- |
-| Python |
-| JAVA |
-| Java Script |
-| jQuery  |
-| C# |
-| C++ | 
-| C |
-| HTML |
-| CSS | 
-| Bootstrap |
-| PHP | 
-| Ruby |
-| Kotlin |
+### Programming languages 
+
+* Python 
+* JAVA 
+* Java Script 
+* jQuery  
+* C# 
+* C++ 
+* C 
+* HTML
+* CSS 
+* Bootstrap
+* PHP 
+* Ruby 
+* Kotlin 
 
 <br>
 <br>
 
-|  Database management system|
-| --- |
-| MySQL |
-| SQL Server |
-| SQLite |
-| MongoDB | 
-| Oracle SQL |
-| PL/SQL |
+### Database management system
+
+* MySQL 
+* SQL Server 
+* SQLite 
+* MongoDB 
+* Oracle SQL 
+* PL/SQL 
 
 <br>
 <br>
 
 
-|  Other technologies|
-| --- |
-| Abinitio |
-| Excel |
-| Git and Github |
-| Notion |
-| AJAX |
-| Postman |
+### Other technologies
+
+* Abinitio 
+* Excel 
+* Git and Github 
+* Notion 
+* AJAX 
+* Postman 
 
 <br>
 <br>
