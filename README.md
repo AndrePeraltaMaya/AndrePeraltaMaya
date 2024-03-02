@@ -7,7 +7,7 @@
 
 [![Twitter: AndrewOnFire_](https://img.shields.io/twitter/follow/AndrewOnFire_?style=social)](https://twitter.com/AndrewOnFire_)
 
-_Personal_
+## Donde me puedes encontrar
 
 ### About me...  
 
