@@ -18,9 +18,7 @@ I am a passionate programmer with a solid background in computer engineering and
 
 ### <b> Desarrollador BI </b> |  **[Citibanamex](https://www.banamex.com/)** |  Diciembre 2023 - Now 
 
-  * Manzana
-  * Plátano
-  * Naranja
+
 
 
 ### <b> Desarrollador BI </b> |  **[Stefanini LATAM](https://stefanini.com/en)** |  Marzo 2022 - Diciembre 2023
