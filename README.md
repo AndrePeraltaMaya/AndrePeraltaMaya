@@ -8,7 +8,7 @@
 [![Twitter: AndrewOnFire_](https://img.shields.io/twitter/follow/AndrewOnFire_?style=social)](https://twitter.com/AndrewOnFire_)
 
 
-## 👨‍💻 About me...  
+## 👨🏻‍💻 About me...  
 
 I am a passionate programmer with a solid background in computer engineering and a focused approach on creating innovative and efficient solutions. My experience ranges from the development of web applications, databases, APIS, to BI development with ETLs, and I love facing new technological challenges.
 
