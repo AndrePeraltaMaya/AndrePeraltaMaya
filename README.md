@@ -16,26 +16,24 @@ I am a passionate programmer with a solid background in computer engineering and
 ## Professional experience
 
 
-### <b style="color: blue"> Desarrollador BI </b>  **[Citibanamex](https://www.banamex.com/)**  Diciembre 2023 - Now 
+### <b> Desarrollador BI </b>  **[Citibanamex](https://www.banamex.com/)**  Diciembre 2023 - Now 
 
   * Manzana
   * Plátano
   * Naranja
 
 
-<h3>Desarrollador BI </b> <i> Stefanini LATAM  Marzo 2022 - Diciembre 2023  </i></h2>
-<ul>
-  <li>Manzana</li>
-  <li>Plátano</li>
-  <li>Naranja</li>
-</ul>
+### <b> Desarrollador BI </b>  **[Stefanini LATAM](https://stefanini.com/en)**  Marzo 2022 - Diciembre 2023
 
-<h3>Programador Full Stack </b> <i> Spotynet Julio 2021 - Octubre 2021  </i></h2>
-<ul>
-  <li>Manzana</li>
-  <li>Plátano</li>
-  <li>Naranja</li>
-</ul>
+  * Manzana
+  * Plátano
+  * Naranja
+
+### <b> Programador Full Stack </b>  **[Spotynet](https://www.spotynet.com/)**  Julio 2021 - Octubre 2021
+
+  * Manzana
+  * Plátano
+  * Naranja
 
 Encargado del departamento de programación
 Jefe del departamento de investigación
