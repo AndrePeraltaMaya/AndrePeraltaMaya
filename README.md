@@ -58,7 +58,7 @@ I am a passionate programmer with a solid background in computer engineering and
 * C# 
 * C++ 
 * C 
-* HTML
+* HTML <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
 * CSS 
 * Bootstrap
 * PHP 
