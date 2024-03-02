@@ -33,22 +33,13 @@ I am a passionate programmer with a solid background in computer engineering and
 
   * Manzana
   * Plátano
-  * Naranja
+  • Implementar un CRUD para la creación de eventos digitales de manera automática usando HTML, JS, Bootstrap, PHP, SQL etc.
+  • Diseño, programación y modificación de bases de datos relacionales y no relacionales.
+  • Encargado del sistema de control de versiones del proyecto.
+  • Envío de correos automáticos con Python y JS.
+  • Mantenimiento y modificación de la pagina principal.
+  • Asesoramiento y solución de problemas a usuarios.
 
-Encargado del departamento de programación
-Jefe del departamento de investigación
-Desarrollo de más de 12 apps para teléfonos móviles
-Aumento del rendimiento web en un 34%
-Programador de aplicaciones MadridInk Julio de 2015 – Mayo de 2019
-Supervisor del área de desarrollo de apps
-Salida al mercado de más de 8 aplicaciones para restaurantes
-Automatización de servicios para hoteles
-Capacitación a nuevos programadores
-Desarrollador de software BioWeb Mayo de 2014 – Junio de 2015
-Creador de la página web de la empresa
-Captación de más de 1200 clientes en un tiempo inferior a un año
-Implementación de tienda online
-Automatización de redes sociales
 
 
 ## :computer: Technologies that I know:
