@@ -64,8 +64,6 @@ I am a passionate programmer with a solid background in computer engineering and
 * PHP 
 * Ruby 
 * Kotlin 
-
-<br>
 <br>
 
 ### Database management system
@@ -76,10 +74,7 @@ I am a passionate programmer with a solid background in computer engineering and
 * MongoDB 
 * Oracle SQL 
 * PL/SQL 
-
 <br>
-<br>
-
 
 ### Other technologies
 
@@ -90,7 +85,6 @@ I am a passionate programmer with a solid background in computer engineering and
 * AJAX 
 * Postman 
 
-<br>
 <br>
 
 ## :art: I also know about design:
