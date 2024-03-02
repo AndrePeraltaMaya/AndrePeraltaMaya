@@ -36,12 +36,12 @@ I am a passionate programmer with a solid background in computer engineering and
 
 ### <b> Programador Full Stack </b>  **[Spotynet](https://www.spotynet.com/)**  Julio 2021 - Octubre 2021
 
-  * Implementar un CRUD para la creación de eventos digitales de manera automática usando HTML, JS, Bootstrap, PHP, SQL etc.
-  * Diseño, programación y modificación de bases de datos relacionales y no relacionales.
-  * Encargado del sistema de control de versiones del proyecto.
-  * Envío de correos automáticos con Python y JS.
-  * Mantenimiento y modificación de la pagina principal.
-  * Asesoramiento y solución de problemas a usuarios
+  * Fuí parte de la implementación de un sistema CRUD para la creación automática de eventos digitales, utilizando HTML, JavaScript, Bootstrap, PHP, SQL, entre otros, para optimizar la eficiencia y la precisión en la gestión de eventos.
+  * Diseñé, programé y modifiqué bases de datos relacionales y no relacionales, asegurando un almacenamiento eficiente y seguro de los datos del proyecto.
+  * Supervisé el sistema de control de versiones del proyecto, garantizando la integridad y la coherencia del código fuente y de los recursos del proyecto.
+  * Desarrollé y configuré funciones para el envío automático de correos electrónicos utilizando Python y JavaScript.
+  * Realicé el mantenimiento y las modificaciones necesarias en la página principal del proyecto, asegurando su funcionalidad y su atractivo visual.
+  * Proporcioné asesoramiento experto y soluciones efectivas a los usuarios, resolviendo problemas y optimizando la experiencia del usuario.
 
 
 
