@@ -25,14 +25,14 @@ I am a passionate programmer with a solid background in computer engineering and
 
 ### <b> Desarrollador BI </b>  **[Stefanini LATAM](https://stefanini.com/en)**  Marzo 2022 - Diciembre 2023
 
-  * Uso de ?? para el proyecto de Data migration, Accival Simplification y Data Segregetion para migración de contratos 
-  * Uso de AB Initio ( GDE y Express IT ) como ETL para la creación de grafos y creación de reglas de negocio
-  * Uso de comandos UNIX para migración de codigo a los distintos ambientes hasta llegar a ambientre productivo
-  * Automatización de procesos mediante Autosys
-  * Actualización de los distintos softwares dentro del aplicativo (cyberark, abinitio, autosys, tectia etc.)
-  * Uso de SQL Server para consultas a bases de datos relacionales dentro del banco
-  * Capacitación de nuevos integrantes al equipo (accesos, orientación, asesoriamiento )
-  * Creación y actualización de documentación sobre los issues y procesos dentro del aplicativo
+  * Lideré y fuí parte de proyectos clave para la segregación del banco incluyendo Data Migration, Accival Simplification y Data Segregation para la migración de contratos de Citi a Banamex
+  * Utilicé AB Initio (GDE y Express IT) como ETL para la creación de gráficos y reglas de negocio para los proyectos anteriormente mencionados, mejorando la eficiencia y la precisión del procesamiento de datos.
+  * Implementé comandos UNIX para la migración de código a los distintos entornos, garantizando una transición hasta el ambiente productivo.
+  * Creación de procesos autoamticos mediante Autosys, optimizando la gestión del tiempo y recursos del equipo.
+  * Mantuve los distintos softwares dentro del aplicativo actualizados, incluyendo CyberArk, Ab Initio, Autosys y Tectia etc. Asegurando la compatibilidad y seguridad del sistema.
+  * Utilicé SQL Server para realizar consultas en bases de datos relacionales en ambientes bajos y cree querys para obtener información critica en ambientes productivos
+  * Lideré la capacitación de nuevos integrantes del equipo, proporcionando orientación, asesoramiento y gestión de accesos, para una integración eficaz.
+  * Responsable de la creación y actualización de documentación detallada sobre los problemas y procesos dentro del aplicativo, garantizando una comprensión clara y una gestión eficiente de los activos de información.
 
 ### <b> Programador Full Stack </b>  **[Spotynet](https://www.spotynet.com/)**  Julio 2021 - Octubre 2021
 
