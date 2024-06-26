@@ -2,7 +2,7 @@
 
 
 <p><em>I'm a computer engineer from the <a href="https://www.unam.mx/"> National Autonomous University of Mexico (UNAM)</a>  :mortar_board:
-<br> I am 23 years old and I live in Mexico (CDMX) </p></em>
+<br> I am 24 years old and I live in Mexico (CDMX) </p></em>
 
 [![Twitter: AndrewOnFire_](https://img.shields.io/twitter/follow/AndrewOnFire_?style=social)](https://twitter.com/AndrewOnFire_)
 
