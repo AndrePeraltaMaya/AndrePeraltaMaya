@@ -18,7 +18,7 @@ I am a passionate programmer with a solid background in computer engineering and
 ### <b> Desarrollador BI </b> |  **[Citibanamex](https://www.banamex.com/)** |  Diciembre 2023 - Now 
 ### <b> Desarrollador BI </b> |  **[Stefanini LATAM](https://stefanini.com/en)** |  Marzo 2022 - Diciembre 2023
 
-  * Lideré y fuí parte de proyectos clave para la segregación del banco incluyendo Data Migration, Accival Simplification y Data Segregation para la migración de contratos de Citi a Banamex
+  * Lideré y fuí parte de proyectos clave para la segregación del banco incluyendo Data Migration, Accival Simplification y Data Segregation para la migración de contratos de Banamex a Citi
   * Utilicé AB Initio (GDE y Express IT) como ETL para la creación de grafos y reglas de transformación para los proyectos anteriormente mencionados, mejorando la eficiencia y la precisión del procesamiento de datos.
   * Implementé comandos UNIX para la migración de código a los distintos entornos, garantizando una transición hasta el ambiente productivo.
   * Creación de procesos autoamticos mediante Autosys, optimizando la gestión del tiempo y recursos del equipo.
