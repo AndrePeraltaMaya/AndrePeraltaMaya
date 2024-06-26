@@ -5,7 +5,7 @@
 <br> I am 24 years old and I live in Mexico (CDMX) </p></em>
 
 [![Twitter: AndrewOnFire_](https://img.shields.io/twitter/follow/AndrewOnFire_?style=social)](https://twitter.com/AndrewOnFire_)
-[![: AndreOnFire_](https://img.shields.io/twitter/follow/AndrewOnFire_?style=social)](https://www.instagram.com/andreonfire/)
+[![: AndreOnFire_](https://img.shields.io/instagram/follow/AndrewOnFire_?style=social)](https://www.instagram.com/andreonfire/)
 
 ## 👨🏻‍💻 About me...  
 
