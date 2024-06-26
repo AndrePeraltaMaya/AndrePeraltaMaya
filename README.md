@@ -21,8 +21,8 @@ I am a passionate programmer with a solid background in computer engineering and
   * Lideré y fuí parte de proyectos clave para la segregación del banco incluyendo Data Migration, Accival Simplification y Data Segregation para la migración de contratos de Banamex a Citi
   * Utilicé AB Initio (GDE y Express IT) como ETL para la creación de grafos y reglas de transformación para los proyectos anteriormente mencionados, mejorando la eficiencia y la precisión del procesamiento de datos.
   * Implementé comandos UNIX para la migración de código a los distintos entornos, garantizando una transición hasta el ambiente productivo.
-  * Creación de procesos autoamticos mediante Autosys, optimizando la gestión del tiempo y recursos del equipo.
-  * Mantuve los distintos softwares dentro del aplicativo actualizados, incluyendo CyberArk, Ab Initio, Autosys y Tectia etc. Asegurando la compatibilidad y seguridad del sistema.
+  * Creación de procesos automaticos mediante Autosys, optimizando la gestión del tiempo y recursos del equipo.
+  * Mantuve los distintos softwares dentro del aplicativo actualizados, incluyendo CyberArk, Ab Initio, Autosys, Tectia, Redhat etc. Asegurando la compatibilidad y seguridad del sistema.
   * Utilicé SQL Server para realizar consultas en bases de datos relacionales en ambientes bajos y cree querys para obtener información critica en ambientes productivos
   * Lideré la capacitación de nuevos integrantes del equipo, proporcionando orientación, asesoramiento y gestión de accesos, para una integración eficaz.
   * Responsable de la creación y actualización de documentación detallada sobre los problemas y procesos dentro del aplicativo, garantizando una comprensión clara y una gestión eficiente de los activos de información.
